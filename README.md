@@ -1,33 +1,50 @@
-# Hi, I’m SubbanBee 👋
+👋 Hey there! I'm SubbanBee
 
+Computer Science Student | ML & Data Engineering Enthusiast
+
+Welcome to my GitHub! I'm passionate about building intelligent systems and data pipelines that solve real-world problems using Machine Learning, Data Engineering, and Full‑Stack Development.
+
+🎯 About Me
+- 🎓 B.Tech in Computer Science & Engineering (CSE) — Aditya University
+- 🧾 Minor: Machine Intelligence
+- 🛤️ Chosen tracks: Data Engineering, Machine Learning Technology
+- 🎯 Target roles: Machine Learning Engineer | Data Engineer | Software Engineer
+- 📍 Based in: India
+- 🚀 Current mission: Building end-to-end ML solutions and scalable data pipelines
+
+🛠️ Tech Stack
+
+Languages
+- Python • Java • C++ • JavaScript • SQL
+
+ML & Data Science
+- scikit-learn • pandas • NumPy • (learning TensorFlow)
+
+Web & Backend
+- HTML • CSS • JavaScript • Node.js
+
+Tools & Platforms
+- Git • GitHub • Jupyter • JDBC
+
+⭐ Featured Projects
+
+- 🤖 Machine-Learning-Notes — https://github.com/SubbanBee/Machine-Learning-Notes
+  - Beginner-to-Advanced notes, examples, and small projects covering machine learning fundamentals, mathematics, and interview questions.
+
+- 🧾 Student-Attendance-Management-System — https://github.com/SubbanBee/Student-Attendance-Management-System-
+  - GUI-based attendance system built with core Java and JDBC, with a simple database-backed interface for managing student attendance.
+
+- 📁 SubbanBee (profile repo) — https://github.com/SubbanBee/SubbanBee
+  - This repository (profile README) — personal summary and highlights.
+
+💻 Other Work
+- More projects and practice repositories (DSA, small apps) are on my profile — I keep adding new work regularly.
+
+🌱 Currently Learning
+- Advanced machine learning workflows, data engineering patterns, and production deployment (ML pipelines).
+
+🤝 Let's Connect
+- LinkedIn: Available on request
 - Email: subbanbeeepanagandla@gmail.com
-- Education: Aditya University — B.Tech, Computer Science and Engineering (CSE)
-- Minor: Machine Intelligence
-- Chosen tracks: Data Engineering, Machine Learning Technology
-- Expected graduation: 2028
 
-About
------
-I am a Computer Science student at Aditya University (CSE) with a minor in Machine Intelligence, expected to graduate in 2028. I'm focused on learning software and data engineering through practical projects and collaboration.
-
-What I work on
---------------
-- Personal projects and learning exercises
-- Beginner-to-intermediate web, data engineering, and ML projects
-
-Skills
-------
-- Programming fundamentals, data structures, and algorithms
-- Web development basics (HTML, CSS, JavaScript)
-- Version control with Git and GitHub
-- Introductory machine learning and data engineering concepts
-
-Projects
---------
-- [Machine-Learning-Notes](https://github.com/SubbanBee/Machine-Learning-Notes) — Notes, examples, and projects covering machine learning topics.
-- [Student-Attendance-Management-System](https://github.com/SubbanBee/Student-Attendance-Management-System-) — GUI-based attendance system built with Java and JDBC.
-- (More projects will appear here — add links to other repos you want to highlight)
-
-Contact
--------
-If you'd like to reach out, email me at: subbanbeeepanagandla@gmail.com
+Made with ❤️ — building the future with code, data, and ML.
