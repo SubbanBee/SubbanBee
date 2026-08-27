@@ -1,50 +1,48 @@
-👋 Hey there! I'm SubbanBee
+# Hi, I’m SubbanBee 👋
 
-Computer Science Student | ML & Data Engineering Enthusiast
+Computer Science Student • ML & Data Engineering Enthusiast
 
-Welcome to my GitHub! I'm passionate about building intelligent systems and data pipelines that solve real-world problems using Machine Learning, Data Engineering, and Full‑Stack Development.
+Welcome — I build data pipelines, ML tools, and practical software projects that solve real problems.
 
-🎯 About Me
-- 🎓 B.Tech in Computer Science & Engineering (CSE) — Aditya University
+About
+-----
+- 🎓 B.Tech in Computer Science & Engineering (CSE), Aditya University
 - 🧾 Minor: Machine Intelligence
-- 🛤️ Chosen tracks: Data Engineering, Machine Learning Technology
-- 🎯 Target roles: Machine Learning Engineer | Data Engineer | Software Engineer
+- 🛤️ Chosen tracks: Data Engineering • Machine Learning Technology
+- 🎓 Expected graduation: 2028
 - 📍 Based in: India
-- 🚀 Current mission: Building end-to-end ML solutions and scalable data pipelines
 
-🛠️ Tech Stack
+Highlights
+----------
+- Focused on end-to-end ML solutions and scalable data pipelines.
+- Comfortable with full-stack basics and production-oriented development.
 
-Languages
-- Python • Java • C++ • JavaScript • SQL
+Featured projects
+-----------------
+- 🤖 [Machine-Learning-Notes](https://github.com/SubbanBee/Machine-Learning-Notes) — Curated notes, examples and small projects covering machine learning fundamentals, math, and interview questions.
+- 🧾 [Student-Attendance-Management-System](https://github.com/SubbanBee/Student-Attendance-Management-System-) — GUI-based attendance manager built with core Java and JDBC; a practical campus project.
+- 📁 [SubbanBee (profile)](https://github.com/SubbanBee/SubbanBee) — This repository: a quick overview of my skills and work.
 
-ML & Data Science
-- scikit-learn • pandas • NumPy • (learning TensorFlow)
+Tech stack
+----------
+- Languages: Python • Java • C++ • JavaScript • SQL
+- ML & Data: scikit-learn • pandas • NumPy (learning TensorFlow)
+- Web & Backend: HTML • CSS • JavaScript • Node.js
+- Tools: Git • GitHub • Jupyter • JDBC
 
-Web & Backend
-- HTML • CSS • JavaScript • Node.js
+What I’m learning
+-----------------
+- Production ML pipelines and data engineering patterns (ETL, streaming)
+- Advanced ML topics and deployment (RAG, fine-tuning, model serving)
+- Big Data fundamentals (Spark) and cloud basics
 
-Tools & Platforms
-- Git • GitHub • Jupyter • JDBC
-
-⭐ Featured Projects
-
-- 🤖 Machine-Learning-Notes — https://github.com/SubbanBee/Machine-Learning-Notes
-  - Beginner-to-Advanced notes, examples, and small projects covering machine learning fundamentals, mathematics, and interview questions.
-
-- 🧾 Student-Attendance-Management-System — https://github.com/SubbanBee/Student-Attendance-Management-System-
-  - GUI-based attendance system built with core Java and JDBC, with a simple database-backed interface for managing student attendance.
-
-- 📁 SubbanBee (profile repo) — https://github.com/SubbanBee/SubbanBee
-  - This repository (profile README) — personal summary and highlights.
-
-💻 Other Work
-- More projects and practice repositories (DSA, small apps) are on my profile — I keep adding new work regularly.
-
-🌱 Currently Learning
-- Advanced machine learning workflows, data engineering patterns, and production deployment (ML pipelines).
-
-🤝 Let's Connect
+Get in touch
+------------
 - LinkedIn: https://www.linkedin.com/in/epanagandla-subban-bee-0555b3322
-- Email: subbanbeeepanagandla@gmail.com
+- Email: [subbanbeeepanagandla@gmail.com](mailto:subbanbeeepanagandla@gmail.com)
 
-Made with ❤️ — building the future with code, data, and ML.
+Contribute
+----------
+If you'd like to collaborate or suggest improvements to any project, open an issue or submit a pull request — I welcome contributions and feedback.
+
+Made with ❤️ — building with code, data, and ML.
