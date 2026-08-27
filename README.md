@@ -44,7 +44,7 @@ Tools & Platforms
 - Advanced machine learning workflows, data engineering patterns, and production deployment (ML pipelines).
 
 🤝 Let's Connect
-- LinkedIn: Available on request
+- LinkedIn: https://www.linkedin.com/in/epanagandla-subban-bee-0555b3322
 - Email: subbanbeeepanagandla@gmail.com
 
 Made with ❤️ — building the future with code, data, and ML.
